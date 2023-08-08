@@ -33,4 +33,4 @@ build/
 .vscode/
 
 ### Database User/Pass ###
-demo/src/main/resources/application.properties
+src/main/resources/application.properties

@@ -15,7 +15,7 @@ public class StudentController {
 
     private final StudentService studentService;
 
-    //adding autowired removes the need for a lengthy getter call of thie sort:
+    //adding autowired removes the need for a lengthy getter call of this sort:
     //this.studentService = studentService.getStudents(arguments)
     @Autowired
     public StudentController(StudentService studentService){

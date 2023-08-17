@@ -2,9 +2,7 @@
 
 This repo serves as a reference point for future spring boot projects.
 
-The code is from the turotial: https://www.youtube.com/watch?v=9SGDpanrc8U&t=472s
-
-### Main takeaway from this repo
+### Main Takeaway from this Repo
 
 - Spring Boot
 - PostgreSQL
